@@ -22,6 +22,9 @@ http://localhost:8000/?format=png&width=300&height=300
 Load images with an ID from Amazon S3 or filesystem
 Improve caching headers
 
+## Based on tutorial from
+https://malcoded.com/posts/nodejs-image-resize-express-sharp/
+
 
 
 
